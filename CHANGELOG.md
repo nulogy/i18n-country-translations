@@ -1,3 +1,7 @@
+## 1.4.0
+
+- Updating dependencies.
+
 ## 1.3.0
 
 - Removed country ZZ. Updating dependencies.
