@@ -1,3 +1,8 @@
+## 1.5.0
+
+- Support Rails 6.0
+- Updating dependencies
+
 ## 1.4.0
 
 - Updating dependencies.
